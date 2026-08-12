@@ -1,5 +1,7 @@
 <div align="center">
 
+![AI Research Banner](Gemini_Generated_Image_lr4b6wlr4b6wlr4b.png)
+
 # Hi, I'm Shreyash.
 
 **Undergraduate AI Research · Alignment · Adversarial Robustness · Diffusion Model Safety**
