@@ -35,6 +35,8 @@ A B2B SaaS platform for the construction industry, closing the communication gap
 - **Swiss-Knife** - Using swiss tournament and model steering in a speculative decoding setup for alignment switchability and reducing alignement costs. 
 
 A fuller writeup of all of these is on the [research page](https://shreyashdhoot.github.io/research.html).
+
+
 ---
 
 ### Background
