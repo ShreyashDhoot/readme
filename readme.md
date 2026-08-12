@@ -15,7 +15,7 @@
 Final year Electronics and Communication student at MIT-WPU. I'm trying to break into the world of AI/ML and LLMs. Dipping my toes in swappable model alignment strategies , Adversarial Robustness and safety in text to image generation diffusion models.
 I'm always eager to collaborate on research at the intersection of generative AI, alignment, and real-world applications.
 
-
+---
 ### Building: Foresights by OmniFeed
 
 AI-powered construction site management platform · Co-founder · 2025–Present
@@ -27,7 +27,7 @@ A B2B SaaS platform for the construction industry, closing the communication gap
 - A conversational assistant for natural-language querying of live site data across the dashboard
 - On-demand AI report generation that synthesises site intelligence into structured analytical reports
 
-
+---
 ### Core research
 
 - **GuardPaint** — speculative safety decoding for text-to-image diffusion. An Auditor network detects unsafe content *during* denoising and localizes it in the latent grid; a Trusted Safety Policy (TSPO) proposes interventions; a tournament system selects the best safe patch before reinsertion. Built across Stable Diffusion (1.5/XL/3.5) and FLUX.1.
@@ -35,13 +35,15 @@ A B2B SaaS platform for the construction industry, closing the communication gap
 - **Swiss-Knife** - Using swiss tournament and model steering in a speculative decoding setup for alignment switchability and reducing alignement costs. 
 
 A fuller writeup of all of these is on the [research page](https://shreyashdhoot.github.io/research.html).
-
+---
 
 ### Background
 
 I'm a final-year undergraduate in **Electrical, Electronics & Communications Engineering at MIT World Peace University**.
 
 I currently work as an **Intern at HCLTech**, on automation and AI-based enhancements within their Industry Software Division. I'm also an **Undergraduate Researcher with Pragya at BITS Pilani, Goa**, working under **Prof. Amitava Das** on multimodal and NLP research. Before that, I was a **Machine Learning Intern at Heera Software**, building a cross-verification system between human-readable addresses and geo-encoded location data.
+
+---
 
 ### Technical toolkit
 
