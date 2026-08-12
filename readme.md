@@ -16,7 +16,7 @@ Final year Electronics and Communication student at MIT-WPU. I'm trying to break
 I'm always eager to collaborate on research at the intersection of generative AI, alignment, and real-world applications.
 
 ---
-
+===================================================================================================================
 ### Building: Foresights by OmniFeed
 
 AI-powered construction site management platform · Co-founder · 2025–Present
@@ -28,6 +28,8 @@ A B2B SaaS platform for the construction industry, closing the communication gap
 - A conversational assistant for natural-language querying of live site data across the dashboard
 - On-demand AI report generation that synthesises site intelligence into structured analytical reports
 
+===================================================================================================================
+
 ### Core research
 
 - **GuardPaint** — speculative safety decoding for text-to-image diffusion. An Auditor network detects unsafe content *during* denoising and localizes it in the latent grid; a Trusted Safety Policy (TSPO) proposes interventions; a tournament system selects the best safe patch before reinsertion. Built across Stable Diffusion (1.5/XL/3.5) and FLUX.1.
@@ -36,6 +38,7 @@ A B2B SaaS platform for the construction industry, closing the communication gap
 
 A fuller writeup of all of these is on the [research page](https://shreyashdhoot.github.io/research.html).
 
+===================================================================================================================
 
 ### Background
 
