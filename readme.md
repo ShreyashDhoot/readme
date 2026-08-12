@@ -15,8 +15,7 @@
 Final year Electronics and Communication student at MIT-WPU. I'm trying to break into the world of AI/ML and LLMs. Dipping my toes in swappable model alignment strategies , Adversarial Robustness and safety in text to image generation diffusion models.
 I'm always eager to collaborate on research at the intersection of generative AI, alignment, and real-world applications.
 
----
-===================================================================================================================
+
 ### Building: Foresights by OmniFeed
 
 AI-powered construction site management platform · Co-founder · 2025–Present
@@ -28,7 +27,6 @@ A B2B SaaS platform for the construction industry, closing the communication gap
 - A conversational assistant for natural-language querying of live site data across the dashboard
 - On-demand AI report generation that synthesises site intelligence into structured analytical reports
 
-===================================================================================================================
 
 ### Core research
 
@@ -38,7 +36,6 @@ A B2B SaaS platform for the construction industry, closing the communication gap
 
 A fuller writeup of all of these is on the [research page](https://shreyashdhoot.github.io/research.html).
 
-===================================================================================================================
 
 ### Background
 
